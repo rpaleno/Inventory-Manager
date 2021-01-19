@@ -1,3 +1,3 @@
 # Inventory-Manager
 
-##Descriprion
+## Description
