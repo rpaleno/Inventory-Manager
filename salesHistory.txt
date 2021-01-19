@@ -1,0 +1,8 @@
+Artwork: Absinthe
+Warehouse Section: I
+Reserve: $12000
+Auction Date: 05/10/2019
+Artwork: The_Tub
+Warehouse Section: I
+Reserve: $12000
+Auction Date: 05/10/2019
