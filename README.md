@@ -9,9 +9,7 @@ If n is input, the program will ask if you would like to search for another pain
 
 ## Instructions
 Using Terminal,
-
  $ g++ client.cpp elem1.cpp binstree.cpp
- 
  $ ./a.out
 
 
