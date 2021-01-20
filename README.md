@@ -16,9 +16,9 @@ Using Terminal,  <br/>
  
 ## Demo
 
-(https://github.com/rpaleno/Inventory-Manager/blob/main/ReadMe_Assets/Screen%20Shot%202021-01-20%20at%203.35.13%20PM.png)
-(https://github.com/rpaleno/Inventory-Manager/blob/main/ReadMe_Assets/Screen%20Shot%202021-01-20%20at%203.36.45%20PM.png)
-(https://github.com/rpaleno/Inventory-Manager/blob/main/ReadMe_Assets/Screen%20Shot%202021-01-20%20at%203.37.08%20PM.png)
+![demo](https://github.com/rpaleno/Inventory-Manager/blob/main/ReadMe_Assets/Screen%20Shot%202021-01-20%20at%203.35.13%20PM.png)
+![demo](https://github.com/rpaleno/Inventory-Manager/blob/main/ReadMe_Assets/Screen%20Shot%202021-01-20%20at%203.36.45%20PM.png)
+![demo](https://github.com/rpaleno/Inventory-Manager/blob/main/ReadMe_Assets/Screen%20Shot%202021-01-20%20at%203.37.08%20PM.png)
 
 
 
