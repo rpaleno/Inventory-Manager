@@ -8,9 +8,9 @@ If y is input, the painting will be added to saleshistory.txt
 If n is input, the program will ask if you would like to search for another painting
 
 ## Instructions
-Using Terminal,     
+Using Terminal,  <br/>     
 
- $ g++ client.cpp elem1.cpp binstree.cpp
+ $ g++ client.cpp elem1.cpp binstree.cpp  <br/>
  $ ./a.out
 
 
