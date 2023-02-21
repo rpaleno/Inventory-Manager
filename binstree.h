@@ -1,9 +1,3 @@
-// CS311: BST header file for HW4 - by Yoshii - DO NOT CHANGE!!
-// This BST has an Up link to make it easy to go up the tree later 
-//------------------------------------------------------------
-
-// tree element type is int for now
-
 #include "elem1.h" //hidden from client
 
 // definition of what a Vertex is - also hidden from the client
